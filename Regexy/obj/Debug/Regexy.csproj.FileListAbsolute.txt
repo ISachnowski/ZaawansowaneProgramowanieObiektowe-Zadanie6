@@ -1,0 +1,6 @@
+c:\users\igor\documents\visual studio 2013\Projects\Regexy\Regexy\bin\Debug\Regexy.exe.config
+c:\users\igor\documents\visual studio 2013\Projects\Regexy\Regexy\bin\Debug\Regexy.exe
+c:\users\igor\documents\visual studio 2013\Projects\Regexy\Regexy\bin\Debug\Regexy.pdb
+c:\users\igor\documents\visual studio 2013\Projects\Regexy\Regexy\obj\Debug\Regexy.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2013\Projects\Regexy\Regexy\obj\Debug\Regexy.exe
+c:\users\igor\documents\visual studio 2013\Projects\Regexy\Regexy\obj\Debug\Regexy.pdb
